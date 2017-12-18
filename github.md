@@ -22,6 +22,32 @@ GitHub Operations
      ***git push origin master***
   8. Go to Github and verify changes.
 
+# Updating a Local Repository
+
+  All these actions assume you are located in the local repo directory of choice.
+  
+  ### To sync with remote repo (i.e. copy latest files to local repo)
+  
+  git pull
+  
+  ### To see status of local repository (i.e. pending changes)
+  
+  git status
+  
+  ### To stage files for upload
+  
+  git add .
+  or
+  git add <filename>
+  
+  ### To commit
+
+  git commit -m "commit comment"
+
+  ### To upload to remote repo
+
+  git push
+  
 # Removing A Github Repository Fork
 
   1. Go to Github account.
