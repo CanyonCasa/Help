@@ -56,7 +56,7 @@ This will create files under the folder JLC2KiCad_lib.
 
 #### Assembly Case Study
 
-The [Musketeer.pdf](Musketeer.pdf) contains details of an assembly example. The costs included a number of unexpected fees, but represent reasonable costs. I chose this project acknowledging that I can not physicallly assemble the SMT.
+The [Musketeer_Example.pdf](Musketeer_Example.pdf) contains details of an assembly example. The costs included a number of unexpected fees, but represent reasonable costs. I chose this project acknowledging that I can not physicallly assemble the SMT.
 
     Caveats... I only had JLCPCB assemble the SMT parts. I specifically chose to not install any throough-hole parts mainly because I already have them and I can do that work. Consequentially, I had the manually selected all parts not placed and remove them from the BOM (i.e. toggle their inclusion in the output). 
     
